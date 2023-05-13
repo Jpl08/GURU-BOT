@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['17577701434', 'ʳⁱᵏⁱᵇᵒᵗ🤩', true],
-  ['43699389777770', 'ʳⁱᵏⁱᵇᵒᵗ🤩', true], 
+  ['918488991252', 'ᵗ🤩', true],
+  ['918488991252', 'ʳᵗ🤩', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['17577701434'] 
-global.prems = ['17577701434', '17577701434', '919398758484']
+global.mods = ['918488991252'] 
+global.prems = ['918488991252', '17577701434', '919398758484']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ʳⁱᵏⁱᵇᵒᵗ🤩'
+global.botname = 'S.r bot'
 global.premium = 'true'
-global.packname = 'ʳⁱᵏⁱᵇᵒᵗ🤩' 
-global.author = '@ʳⁱᵏⁱᵇᵒᵗ🤩' 
+global.packname = 'S.R B0T' 
+global.author = '@S.R RE4L🤩' 
 global.igfg = 'private' 
 global.dygp = 'shhh'
 global.fgsc = 'bot' 
@@ -59,7 +59,7 @@ global.fgpyp = 'not'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ L0AD!NG..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ L0AD!!!NG..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
