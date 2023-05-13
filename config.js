@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918488991252', 'ᵗ🤩', true],
+  ['918488991252', '↦⃝🇸  ͥᴀɢ᷄ͣᴀͫʀ᷅𝄟⃝😈ͫ', true],
   ['918488991252', 'ʳᵗ🤩', true], 
   [''] 
 ] //Number of owners
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'S.r bot'
+global.botname = '↦⃝🇸  ͥᴀɢ᷄ͣᴀͫʀ᷅𝄟⃝😈ͫ'
 global.premium = 'true'
-global.packname = 'S.R B0T' 
-global.author = '@S.R RE4L🤩' 
+global.packname = '↦⃝🇸  ͥᴀɢ᷄ͣᴀͫʀ᷅𝄟⃝😈ͫ' 
+global.author = '@↦⃝🇸  ͥᴀɢ᷄ͣᴀͫʀ᷅𝄟⃝😈ͫ' 
 global.igfg = 'private' 
 global.dygp = 'shhh'
 global.fgsc = 'bot' 
@@ -59,7 +59,7 @@ global.fgpyp = 'not'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ L0AD!!!NG..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ L0AD!!!NG.↦⃝🇸  ͥᴀɢ᷄ͣᴀͫʀ᷅𝄟⃝😈ͫ.._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
